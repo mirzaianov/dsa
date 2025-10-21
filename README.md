@@ -1,7 +1,7 @@
-<img src="https://leetcard.jacoblin.cool/mirzaianov?ext=heatmap" alt="My Leetcode Stats" >
+![My Leetcode Stats](https://leetcard.jacoblin.cool/mirzaianov?ext=heatmap)
 
-# A collection of leetcode.com & bigfrontend.dev solutions
+# A collection of DSA solutions from leetcode.com, bigfrontend.dev, 100jsfunctions.com
 
 Hi!
 
-In this repo I store the data of my [Leetcode](https://leetcode.com/) & [BFE](https://bigfrontend.dev/) solutions in JS & TS.
+In this repo I store the data of my [LeetCode](https://leetcode.com/), [BFE](https://bigfrontend.dev/) & [100 JS Functions](https://www.100jsfunctions.com/) solutions in JS & TS.
