@@ -1,6 +1,6 @@
 ![My Leetcode Stats](https://leetcard.jacoblin.cool/mirzaianov?ext=heatmap)
 
-# A collection of DSA solutions from leetcode.com, bigfrontend.dev, 100jsfunctions.com
+# A collection of my DSA solutions for leetcode.com, bigfrontend.dev & 100jsfunctions.com
 
 Hi!
 
