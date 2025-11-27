@@ -6,4 +6,4 @@ function halfAndHalf(text) {
   return `${first}${second}`;
 }
 
-export default halfAndHalf;
+export { halfAndHalf };

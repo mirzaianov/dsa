@@ -9,4 +9,4 @@ function partitionArray(numbers, predicateCallback) {
   return { fail, pass };
 }
 
-export default partitionArray;
+export { partitionArray };

@@ -86,4 +86,4 @@ function timeToMinutes(time) {
   return time.hours * 60 + time.minutes;
 }
 
-export default findFreeCalendarSpots;
+export { findFreeCalendarSpots };

@@ -42,4 +42,4 @@ function timeAgo(date1, date2) {
   }
 }
 
-export default timeAgo;
+export { timeAgo };

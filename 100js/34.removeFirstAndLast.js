@@ -10,4 +10,4 @@ function removeFirstAndLast(source, target) {
     .join('');
 }
 
-export default removeFirstAndLast;
+export { removeFirstAndLast };

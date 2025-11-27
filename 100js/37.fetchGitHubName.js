@@ -12,4 +12,4 @@ async function fetchGitHubName(username) {
   }
 }
 
-export default fetchGitHubName;
+export { fetchGitHubName };

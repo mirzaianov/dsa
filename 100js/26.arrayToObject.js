@@ -12,4 +12,4 @@ function arrayToObject(strings) {
   return res;
 }
 
-export default arrayToObject;
+export { arrayToObject };

@@ -15,4 +15,4 @@ function mostRepetitions(string1, string2, letter) {
   return count1 >= count2 ? string1 : string2;
 }
 
-export default mostRepetitions;
+export { mostRepetitions };

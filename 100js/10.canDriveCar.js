@@ -4,4 +4,4 @@ function canDriveCar(user, car) {
   return false;
 }
 
-export default canDriveCar;
+export { canDriveCar };

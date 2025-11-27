@@ -18,4 +18,4 @@ function getMonthOfTheYear(date) {
   return months[index];
 }
 
-export default getMonthOfTheYear;
+export { getMonthOfTheYear };

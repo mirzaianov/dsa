@@ -33,4 +33,4 @@ function groupBirthdays(users, groupBy) {
   return map;
 }
 
-export default groupBirthdays;
+export { groupBirthdays };

@@ -8,4 +8,4 @@ function findUniqueNumber(numbers) {
   return res;
 }
 
-export default findUniqueNumber;
+export { findUniqueNumber };

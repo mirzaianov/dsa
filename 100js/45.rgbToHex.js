@@ -12,4 +12,4 @@ function rgbToHex(rgbColor) {
   return `#${decToHex(r)}${decToHex(g)}${decToHex(b)}`;
 }
 
-export default rgbToHex;
+export { rgbToHex };

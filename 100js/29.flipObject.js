@@ -12,4 +12,4 @@ function flipObject(people) {
   return res;
 }
 
-export default flipObject;
+export { flipObject };

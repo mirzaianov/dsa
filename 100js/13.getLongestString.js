@@ -13,4 +13,4 @@ function getLongestString(arrayOfStrings) {
   return res[1];
 }
 
-export default getLongestString;
+export { getLongestString };

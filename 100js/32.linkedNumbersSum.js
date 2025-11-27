@@ -10,4 +10,4 @@ function linkedNumbersSum(node) {
   return sum;
 }
 
-export default linkedNumbersSum;
+export { linkedNumbersSum };

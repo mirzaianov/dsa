@@ -5,4 +5,4 @@ function concat3(...args) {
   return strings.join(sep);
 }
 
-export default concat3;
+export { concat3 };

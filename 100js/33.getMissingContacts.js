@@ -17,4 +17,4 @@ function getMissingContacts(contactsMap) {
   return res;
 }
 
-export default getMissingContacts;
+export { getMissingContacts };

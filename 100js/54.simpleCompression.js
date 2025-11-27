@@ -23,4 +23,4 @@ function simpleCompression(text) {
   return res;
 }
 
-export default simpleCompression;
+export { simpleCompression };

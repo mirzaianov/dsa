@@ -32,4 +32,4 @@ function diffReactions(yesterdayReactions, todayReactions) {
   return res;
 }
 
-export default diffReactions;
+export { diffReactions };

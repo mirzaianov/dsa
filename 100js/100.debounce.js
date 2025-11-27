@@ -7,4 +7,4 @@ const debounce = (callback) => {
   };
 };
 
-export default debounce;
+export { debounce };

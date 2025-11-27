@@ -9,4 +9,4 @@ function countPageViews(pageViews, country, interval) {
     .reduce((acc, item) => acc + item.count, 0);
 }
 
-export default countPageViews;
+export { countPageViews };

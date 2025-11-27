@@ -13,4 +13,4 @@ function parseQueryParams(url) {
   return map;
 }
 
-export default parseQueryParams;
+export { parseQueryParams };

@@ -13,4 +13,4 @@ function extractElementsBetweenPositions(numbers, n, m) {
   return numbers.slice(left, right + 1);
 }
 
-export default extractElementsBetweenPositions;
+export { extractElementsBetweenPositions };

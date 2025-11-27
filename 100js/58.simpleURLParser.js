@@ -18,4 +18,4 @@ function simpleURLParser(route, url) {
   return true;
 }
 
-export default simpleURLParser;
+export { simpleURLParser };

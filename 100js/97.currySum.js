@@ -12,4 +12,4 @@ function currySum(num) {
   };
 }
 
-export default currySum;
+export { currySum };

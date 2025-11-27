@@ -20,4 +20,4 @@ function ascendingSplit(numbers) {
   return res;
 }
 
-export default ascendingSplit;
+export { ascendingSplit };

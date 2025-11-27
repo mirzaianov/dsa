@@ -12,4 +12,4 @@ function biggestPowerOf2(number) {
   return power;
 }
 
-export default biggestPowerOf2;
+export { biggestPowerOf2 };

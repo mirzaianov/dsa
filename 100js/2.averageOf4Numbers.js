@@ -5,4 +5,4 @@ function averageOf4Numbers(...args) {
   return sum / len;
 }
 
-export default averageOf4Numbers;
+export { averageOf4Numbers };

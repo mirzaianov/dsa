@@ -6,4 +6,4 @@ function areAllNumbersEven(numbers) {
   return true;
 }
 
-export default areAllNumbersEven;
+export { areAllNumbersEven };

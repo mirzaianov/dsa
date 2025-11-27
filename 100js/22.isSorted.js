@@ -12,4 +12,4 @@ function isSorted(numbers) {
   return true;
 }
 
-export default isSorted;
+export { isSorted };

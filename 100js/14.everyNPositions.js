@@ -10,4 +10,4 @@ function everyNPositions(message, step) {
   return res;
 }
 
-export default everyNPositions;
+export { everyNPositions };

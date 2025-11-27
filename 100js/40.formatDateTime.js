@@ -11,4 +11,4 @@ function formatDateTime(date, locale) {
   return new Intl.DateTimeFormat(locale, options).format(date);
 }
 
-export default formatDateTime;
+export { formatDateTime };

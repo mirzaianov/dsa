@@ -20,4 +20,4 @@ function mergeSortedArrays(numbers1, numbers2) {
   return [...res, ...numbers1.slice(i), ...numbers2.slice(0, j + 1).reverse()];
 }
 
-export default mergeSortedArrays;
+export { mergeSortedArrays };

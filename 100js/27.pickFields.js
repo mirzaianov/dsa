@@ -10,4 +10,4 @@ function pickFields(data, fields) {
   return res;
 }
 
-export default pickFields;
+export { pickFields };

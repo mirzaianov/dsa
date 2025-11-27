@@ -8,4 +8,4 @@ function rotateArray(items, n) {
   return items;
 }
 
-export default rotateArray;
+export { rotateArray };

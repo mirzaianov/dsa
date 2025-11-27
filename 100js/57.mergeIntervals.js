@@ -27,4 +27,4 @@ function mergeIntervals(intervals, newIntervals) {
   return res;
 }
 
-export default mergeIntervals;
+export { mergeIntervals };

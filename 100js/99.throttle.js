@@ -13,4 +13,4 @@ function throttle(callback) {
   };
 }
 
-export default throttle;
+export { throttle };

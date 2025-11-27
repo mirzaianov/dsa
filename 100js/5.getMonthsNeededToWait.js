@@ -4,4 +4,4 @@ function getMonthsNeededToWait(index1, index2) {
   return res >= 0 ? res : 12 + res;
 }
 
-export default getMonthsNeededToWait;
+export { getMonthsNeededToWait };

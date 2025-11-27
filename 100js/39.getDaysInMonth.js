@@ -10,4 +10,4 @@ function getDaysInMonth(date) {
   return Math.floor((nextMonthsFirstDay - currentMonthsFirstDay) / millisecondsInOneDay);
 }
 
-export default getDaysInMonth;
+export { getDaysInMonth };

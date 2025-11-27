@@ -53,4 +53,4 @@ function parseNextPage(headerValue) {
   return match[1] || null;
 }
 
-export default fetchNamesOfAllPublicRepos;
+export { fetchNamesOfAllPublicRepos };

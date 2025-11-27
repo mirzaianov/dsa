@@ -10,4 +10,4 @@ function getCurry(callback) {
   };
 }
 
-export default getCurry;
+export { getCurry };

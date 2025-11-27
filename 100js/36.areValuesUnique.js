@@ -10,4 +10,4 @@ function areValuesUnique(numbers) {
   return true;
 }
 
-export default areValuesUnique;
+export { areValuesUnique };

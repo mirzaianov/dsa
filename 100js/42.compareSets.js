@@ -16,4 +16,4 @@ function compareSets(setA, setB) {
   };
 }
 
-export default compareSets;
+export { compareSets };

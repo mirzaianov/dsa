@@ -4,4 +4,4 @@ function getBusinessAddress(business) {
   return `${street}, number ${number}, ${zipCode}`;
 }
 
-export default getBusinessAddress;
+export { getBusinessAddress };

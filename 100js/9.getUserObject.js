@@ -5,4 +5,4 @@ function getUserObject(firstName, lastName, age) {
   };
 }
 
-export default getUserObject;
+export { getUserObject };

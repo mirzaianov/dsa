@@ -10,4 +10,4 @@ function moveItems(numbers, moveInstructions) {
   return res;
 }
 
-export default moveItems;
+export { moveItems };

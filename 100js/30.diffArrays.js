@@ -14,4 +14,4 @@ function diffArrays(numbers1, numbers2) {
   return res;
 }
 
-export default diffArrays;
+export { diffArrays };

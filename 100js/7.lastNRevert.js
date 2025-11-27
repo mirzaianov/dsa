@@ -6,4 +6,4 @@ function lastNRevert(text, n) {
     .join('');
 }
 
-export default lastNRevert;
+export { lastNRevert };

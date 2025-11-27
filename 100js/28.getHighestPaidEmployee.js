@@ -11,4 +11,4 @@ function getHighestPaidEmployee(employees, departmentId) {
   return res[0][0];
 }
 
-export default getHighestPaidEmployee;
+export { getHighestPaidEmployee };

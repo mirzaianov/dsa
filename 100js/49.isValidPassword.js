@@ -6,4 +6,4 @@ function isValidPassword(password) {
   return hasThreeUpperLetters && hasDigit && hasSymbol;
 }
 
-export default isValidPassword;
+export { isValidPassword };

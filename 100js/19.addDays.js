@@ -6,4 +6,4 @@ function addDays(initialDate, daysCount) {
   return date;
 }
 
-export default addDays;
+export { addDays };

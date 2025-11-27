@@ -16,4 +16,4 @@ function pickNested(data, path) {
   return dfs(data, 0);
 }
 
-export default pickNested;
+export { pickNested };
