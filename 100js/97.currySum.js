@@ -1,14 +1,10 @@
-function currySum(num) {
-  if (num === undefined) return 0;
+function currySum(a) {
+  if (!a) return 0;
 
-  let sum = num;
+  return function curry(b) {
+    if (!b) return a;
 
-  return function next(nextNum) {
-    if (nextNum === undefined) return sum;
-
-    sum += nextNum;
-
-    return next;
+    return currySum(a + b);
   };
 }
 
