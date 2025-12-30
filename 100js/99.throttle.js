@@ -1,4 +1,4 @@
-function throttle(callback) {
+function throttle(callback, period = 1000) {
   let isPaused = false;
 
   return function (...args) {
@@ -6,10 +6,7 @@ function throttle(callback) {
 
     callback(...args);
     isPaused = true;
-
-    setTimeout(() => {
-      isPaused = false;
-    }, 1000);
+    setTimeout(() => (isPaused = false), period);
   };
 }
 
